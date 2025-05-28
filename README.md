@@ -12,6 +12,4 @@
 
 ### 📫 联系方式
 - QQ : 2713421980  
-- 微信 : Tyz_kotono  
 - E-mail : 2713401980@qq.com、tjp1121@163.com  
-- GitHub主页 : [https://github.com/Tyz-Kotono](https://github.com/Tyz-Kotono)
